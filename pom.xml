@@ -9,7 +9,7 @@
 		<module>housemart-pic-service</module>
 	</modules>
 	<build>
-		<finalName>HouseMart-Base</finalName>
+		<finalName>HouseMart-Pic-Parent</finalName>
 		<resources>
 			<resource>
 				<directory>src/main/java</directory>
